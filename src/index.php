@@ -2,11 +2,6 @@
 include('includes/header.php');
 ?>
 
-<!--/banner-section-->
-<!--//main-header-->
-<!--/banner-bottom-->
-
-<!--//banner-bottom-->
 <!-- Modal1 -->
 <div class="modal fade" id="myModal4" tabindex="-1" role="dialog">
 
@@ -98,7 +93,7 @@ include('includes/header.php');
 							</div>
 							<div class="tab3">
 								<div class="tab_movies_agileinfo">
-									
+
 									<div class="cleafix"></div>
 								</div>
 							</div>
@@ -107,85 +102,69 @@ include('includes/header.php');
 
 				</div>
 				<!--//tab-section-->
-				
+
 				<!--//movies-->
 				<!---728x90--->
 				<h3 class="agile_w3_title">Hollywood <span>Movies</span> </h3>
 				<!--/requested-movies-->
-					<div class="wthree_agile-requested-movies">
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							 <?php include ('../adminpanel/connect.php')?>
-								
-								
-								<?php
-								
-										$query = "SELECT movies.*, categories.name 
-										FROM movies 
-										INNER JOIN categories ON categories.category_id = movies.category_id";
-								
-										$connect_query = mysqli_query($connection, $query);
-								
-										if(mysqli_num_rows($connect_query) > 0){
-										  while($row = mysqli_fetch_assoc($connect_query)){
-								  
-								
-								
-								
-									  ?>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Swiss Army Man</a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-									<div class="member-img">
-                <img src="adminpanel/uploads/<?php echo $row ['image'] ?>"height="200px"width="250px" class="img-fluid" alt="">
-                <div class="social">
-                  <a href="adminpanel/uploads/<?php echo $row ['trailer'] ?>" class="btn btn-primary width 250px">Watch Trailer</a>
-                  
-                </div>
-										 <!-- <ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul> -->
-									</div>
-									<div class="clearfix"></div>
-								</div>
+				<div class="wthree_agile-requested-movies">
+				<?php include('../adminpanel/connect.php') ?>
+					<?php
+
+					$query = "SELECT *  
+							FROM movies where category_id = '1'";
+
+					$connect_query = mysqli_query($connection, $query);
+
+					if (mysqli_num_rows($connect_query) > 0) {
+						while ($row = mysqli_fetch_assoc($connect_query)) {
+
+							?>
+					<div class="col-md-2 w3l-movie-gride-agile requested-movies">
+						
+						<img src="../adminpanel/uploads/<?php echo $row ['image'] ?> " title="Movies Pro"
+								class="img-responsive"style="height:250px; width:250px;" alt=" ">
+
+							<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i>
 							</div>
-							<div class="row">
-
-   <?php
-   }
-		}
-		
-		?> 
-
-			
-
-	
-   
-</div>
-
-
-
-</section>
-
-
-						
-						
-						
-						
-						<div class="clearfix"></div>
-					</div>
+						</a>
+						<div class="mid-1 agileits_w3layouts_mid_1_home">
+							<div class="w3l-movie-text">
+								<b<h6><?php echo $row ['title'] ?></h6></b>
+							</div>
+							<div class="mid-2 agile_mid_2_home">
+								<p>2024</p>
+								<div class="block-stars">
+									<ul class="w3l-ratings">
+										<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+									</ul>
+								</div>
+								<br>
+								<br>
+								<div class="form-group">
+                                      <a href="../adminpanel/uploads/<?php echo $row['trailer'] ?>"  class="btn btn-primary" style="width:150px; border-radius:5px">Watch Trailer</a>
+                                    
+                                    </div>
 					
+							</div>
+
+						</div>
+						<!-- <div class="ribben one">
+							<p>NEW</p>
+						</div> -->
+					</div>
+
+					<?php
+						}
+					}
+
+					?>
+					
+
 
 				<!--//top-movies-->
 			</div>
@@ -212,7 +191,7 @@ include('includes/header.php');
 							</div>
 							<div class="tab3">
 								<div class="tab_movies_agileinfo">
-									
+
 									<div class="cleafix"></div>
 								</div>
 							</div>
@@ -220,153 +199,74 @@ include('includes/header.php');
 					</div>
 
 				</div>
-				<!--//tab-section-->
-				
-				<!--//movies-->
-				<!---728x90--->
-				<h3 class="agile_w3_title">Hollywood <span>Movies</span> </h3>
-				<!--/requested-movies-->
-					<div class="wthree_agile-requested-movies">
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Swiss Army Man</a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Me Before you</a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Deadpool</a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Rogue One </a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Storks </a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-					
+				<!--//Bollywood-movie-section-->
 
-				<!--//top-movies-->
+				<h3 class="agile_w3_title">Bollywood <span>Movies</span> </h3>
+				<!--/requested-movies-->
+				<div class="wthree_agile-requested-movies">
+				  <!-- bd - connection -->
+				  <?php include('../adminpanel/connect.php') ?>
+
+				<!-- query - start -->
+					<?php
+
+					$query = "SELECT *  
+							FROM movies where category_id = '2'";
+
+					$connect_query = mysqli_query($connection, $query);
+
+					if (mysqli_num_rows($connect_query) > 0) {
+						while ($row = mysqli_fetch_assoc($connect_query)) {
+
+							?>
+					<div class="col-md-2 w3l-movie-gride-agile requested-movies">
+						<img src="../adminpanel/uploads/<?php echo $row ['image'] ?>" title="Movies Pro"
+								class="img-responsive"style="height:250px; width:250px;" alt=" ">
+						
+						</a>
+						<div class="mid-1 agileits_w3layouts_mid_1_home">
+							<div class="w3l-movie-text">
+								<b<h6><?php echo $row ['title'] ?></h6></b>
+							</div>
+							<div class="mid-2 agile_mid_2_home">
+								<p>2024</p>
+								<div class="block-stars">
+									<ul class="w3l-ratings">
+										<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+									</ul>
+								</div>
+								<br>
+								<br>
+								<div class="form-group">
+                                      <a href="../adminpanel/uploads/<?php echo $row['trailer'] ?>"  class="btn btn-primary" style="width:150px; border-radius:5px">Watch Trailer</a>
+                                    
+                                    </div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+						<!-- <div class="ribben one">
+							<p>NEW</p>
+						</div> -->
+					</div>
+
+					<?php
+						}
+					}
+
+					?>
+
+
+
+
+					<div class="clearfix"></div>
+				</div>
+
+
+				<!--//Bollywood-movie-section- end-->
 			</div>
 		</div>
 		<div class="agileinfo_tabs">
@@ -391,7 +291,7 @@ include('includes/header.php');
 							</div>
 							<div class="tab3">
 								<div class="tab_movies_agileinfo">
-									
+
 									<div class="cleafix"></div>
 								</div>
 							</div>
@@ -400,156 +300,75 @@ include('includes/header.php');
 
 				</div>
 				<!--//tab-section-->
-				
+
 				<!--//movies-->
 				<!---728x90--->
-				<h3 class="agile_w3_title">Hollywood <span>Movies</span> </h3>
+				<h3 class="agile_w3_title">Lollywood <span>Movies</span> </h3>
 				<!--/requested-movies-->
-					<div class="wthree_agile-requested-movies">
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Swiss Army Man</a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
+				<div class="wthree_agile-requested-movies">
+					<!-- query - start -->
+					<?php
+
+					$query = "SELECT *  
+							FROM movies where category_id = '3'";
+
+					$connect_query = mysqli_query($connection, $query);
+
+					if (mysqli_num_rows($connect_query) > 0) {
+						while ($row = mysqli_fetch_assoc($connect_query)) {
+
+							?>
+					<div class="col-md-2 w3l-movie-gride-agile requested-movies">
+						<img src="../adminpanel/uploads/<?php echo $row ['image'] ?>" title="Movies Pro"
+								class="img-responsive"style="height:250px; width:250px;" alt=" ">
+								
+
+							<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i>
 							</div>
-							<div class="ribben one">
-								<p>NEW</p>
+						</a>
+						<div class="mid-1 agileits_w3layouts_mid_1_home">
+							<div class="w3l-movie-text">
+								<b<h6><?php echo $row ['title'] ?></h6></b>
 							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Me Before you</a></h6>
+							<div class="mid-2 agile_mid_2_home">
+								<p>2024</p>
+								<div class="block-stars">
+									<ul class="w3l-ratings">
+										<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+									</ul>
 								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
+								<br>
+								<br>
+								<div class="form-group">
+                                      <a href="../adminpanel/uploads/<?php echo $row['trailer'] ?>"  class="btn btn-primary" style="width:150px; border-radius:5px">Watch Trailer</a>
+                                    
+                                    </div>
+								<div class="clearfix"></div>
 							</div>
 						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Deadpool</a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Rogue One </a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro"
-									class="img-responsive" alt=" ">
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Storks </a></h6>
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-						<div class="clearfix"></div>
+						<!-- <div class="ribben one">
+							<p>NEW</p>
+						</div> -->
 					</div>
-					
+
+					<?php
+						}
+					}
+
+					?>
+					<div class="clearfix"></div>
+				</div>
+
 
 				<!--//top-movies-->
 			</div>
 		</div>
 		<!--//content-inner-section-->
 
-	<?php
-	include('includes/footer.php');
-	?>
+		<?php
+		include('includes/footer.php');
+		?>

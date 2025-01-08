@@ -53,16 +53,16 @@
                       </a>
                     </li>
                     <li>
-                      <a href="../login.php">
-                        <span class="sub-item">Login</span>
+                      <a href="alluser.php">
+                        <span class="sub-item">ALL USERS</span>
                       </a>
                     </li>
                     <li>
-                      <a href="components/notifications.html">
-                        <span class="sub-item">Notifications</span>
+                      <a href="../src/login.php">
+                        <span class="sub-item">LOGIN</span>
                       </a>
                     </li>
-                    <li>
+                    <!-- <li>
                       <a href="components/sweetalert.html">
                         <span class="sub-item">Sweet Alert</span>
                       </a>
@@ -81,11 +81,11 @@
                       <a href="components/typography.html">
                         <span class="sub-item">Typography</span>
                       </a>
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
               </li>
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a data-bs-toggle="collapse" href="#sidebarLayouts">
                   <i class="fas fa-th-list"></i>
                   <p>Sidebar Layouts</p>
@@ -142,7 +142,7 @@
                     </li>
                   </ul>
                 </div>
-              </li>
+              </li> -->
               <!-- <li class="nav-item">
                 <a data-bs-toggle="collapse" href="#maps">
                   <i class="fas fa-map-marker-alt"></i>

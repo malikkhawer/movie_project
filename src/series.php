@@ -278,87 +278,87 @@ RIGHT SIDEBAR TOGGLE SECTION
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<h1><a  href="index.html"><span>M</span>ovies <span>P</span>ro</a></h1>
+						<h1><a  href="index.php"><span>M</span>ovies <span>P</span>ro</a></h1>
 					</div>
 					<!-- navbar-header -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Genre <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="genre.html">Action</a></li>
-											<li><a href="genre.html">Biography</a></li>
-											<li><a href="genre.html">Crime</a></li>
-											<li><a href="genre.html">Family</a></li>
-											<li><a href="horror.html">Horror</a></li>
-											<li><a href="genre.html">Romance</a></li>
-											<li><a href="genre.html">Sports</a></li>
-											<li><a href="genre.html">War</a></li>
+											<li><a href="genre.php">Action</a></li>
+											<li><a href="genre.php">Biography</a></li>
+											<li><a href="genre.php">Crime</a></li>
+											<li><a href="genre.php">Family</a></li>
+											<li><a href="horror.php">Horror</a></li>
+											<li><a href="genre.php">Romance</a></li>
+											<li><a href="genre.php">Sports</a></li>
+											<li><a href="genre.php">War</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="genre.html">Adventure</a></li>
-											<li><a href="comedy.html">Comedy</a></li>
-											<li><a href="genre.html">Documentary</a></li>
-											<li><a href="genre.html">Fantasy</a></li>
-											<li><a href="genre.html">Thriller</a></li>
+											<li><a href="genre.php">Adventure</a></li>
+											<li><a href="comedy.php">Comedy</a></li>
+											<li><a href="genre.php">Documentary</a></li>
+											<li><a href="genre.php">Fantasy</a></li>
+											<li><a href="genre.php">Thriller</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="genre.html">Animation</a></li>
-											<li><a href="genre.html">Costume</a></li>
-											<li><a href="genre.html">Drama</a></li>
-											<li><a href="genre.html">History</a></li>
-											<li><a href="genre.html">Musical</a></li>
-											<li><a href="genre.html">Psychological</a></li>
+											<li><a href="genre.php">Animation</a></li>
+											<li><a href="genre.php">Costume</a></li>
+											<li><a href="genre.php">Drama</a></li>
+											<li><a href="genre.php">History</a></li>
+											<li><a href="genre.php">Musical</a></li>
+											<li><a href="genre.php">Psychological</a></li>
 										</ul>
 									</div>
 									<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li>
-							<li class="active"><a href="series.html">Tv - series</a></li>
-							<li><a href="news.html">news</a></li>
+							<li class="active"><a href="series.php">Tv - series</a></li>
+							<li><a href="news.php">news</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Country <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">Asia</a></li>
-												<li><a href="genre.html">France</a></li>
-												<li><a href="genre.html">Taiwan</a></li>
-												<li><a href="genre.html">United States</a></li>
+												<li><a href="genre.php">Asia</a></li>
+												<li><a href="genre.php">France</a></li>
+												<li><a href="genre.php">Taiwan</a></li>
+												<li><a href="genre.php">United States</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">China</a></li>
-												<li><a href="genre.html">HongCong</a></li>
-												<li><a href="genre.html">Japan</a></li>
-												<li><a href="genre.html">Thailand</a></li>
+												<li><a href="genre.php">China</a></li>
+												<li><a href="genre.php">HongCong</a></li>
+												<li><a href="genre.php">Japan</a></li>
+												<li><a href="genre.php">Thailand</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">Euro</a></li>
-												<li><a href="genre.html">India</a></li>
-												<li><a href="genre.html">Korea</a></li>
-												<li><a href="genre.html">United Kingdom</a></li>
+												<li><a href="genre.php">Euro</a></li>
+												<li><a href="genre.php">India</a></li>
+												<li><a href="genre.php">Korea</a></li>
+												<li><a href="genre.php">United Kingdom</a></li>
 											</ul>
 										</div>
 										<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li>
-								<li><a href="list.html">A - z list</a></li>
-							    <li><a href="contact.html">Contact</a></li>
+								<li><a href="list.php">A - z list</a></li>
+							    <li><a href="contact.php">Contact</a></li>
 						</ul>
 
 					</div>
@@ -505,7 +505,7 @@ RIGHT SIDEBAR TOGGLE SECTION
 	<div class="w3_breadcrumb">
 		<div class="breadcrumb-inner">	
 			<ul>
-				<li><a href="index.html">Home</a><i>//</i></li>
+				<li><a href="index.php">Home</a><i>//</i></li>
 				<li>Series</li>
 			</ul>
 		</div>
@@ -534,12 +534,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 										
 										   <div class="col-md-7 wthree_agile-movies_list second-top">
 														<div class="w3l-movie-gride-agile">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Raaz</a></h6>						
+																		<h6><a href="single.php">Raaz</a></h6>						
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -560,12 +560,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 															</div>
 													</div>
 														<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">M.S. Dhoni</a></h6>							
+														<h6><a href="single.php">M.S. Dhoni</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -586,12 +586,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Neerja</a></h6>							
+														<h6><a href="single.php">Neerja</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -612,12 +612,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Pink </a></h6>							
+														<h6><a href="single.php">Pink </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -638,12 +638,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Ki & Ka</a></h6>							
+														<h6><a href="single.php">Ki & Ka</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -664,12 +664,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Befikre</a></h6>							
+														<h6><a href="single.php">Befikre</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -690,12 +690,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Fan</a></h6>							
+														<h6><a href="single.php">Fan</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -716,12 +716,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Jai Gangaajal</a></h6>							
+														<h6><a href="single.php">Jai Gangaajal</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -756,9 +756,9 @@ RIGHT SIDEBAR TOGGLE SECTION
 												<p class="fexi_header_para"><span>Release On<label>:</label></span> Aug 27, 2016 </p>
 												<p class="fexi_header_para">
 													<span>Genres<label>:</label> </span>
-													<a href="genre.html">Drama</a> | 
-													<a href="genre.html">Adventure</a> | 
-													<a href="genre.html">Family</a>								
+													<a href="genre.php">Drama</a> | 
+													<a href="genre.php">Adventure</a> | 
+													<a href="genre.php">Family</a>								
 												</p>
 												<p class="fexi_header_para fexi_header_para1"><span>Star Rating<label>:</label></span>
 													<a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
@@ -772,12 +772,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 											<div class="clearfix"> </div>
 											<div class="wthree_agile-requested-movies">
 										<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">M.s. Dhoni</a></h6>							
+																		<h6><a href="single.php">M.s. Dhoni</a></h6>							
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -798,12 +798,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 															</div>
 													</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Fan</a></h6>							
+														<h6><a href="single.php">Fan</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -824,12 +824,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Neerja</a></h6>							
+														<h6><a href="single.php">Neerja</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -850,12 +850,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Pink </a></h6>							
+														<h6><a href="single.php">Pink </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -876,12 +876,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/h8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/h8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Jai Gangaajal</a></h6>							
+														<h6><a href="single.php">Jai Gangaajal</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -930,9 +930,9 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												<p class="fexi_header_para"><span>Release On<label>:</label></span>Sep 29, 2016 </p>
 												<p class="fexi_header_para">
 													<span>Genres<label>:</label> </span>
-													<a href="genre.html">Drama</a> | 
-													<a href="genre.html">Adventure</a> | 
-													<a href="genre.html">Family</a>								
+													<a href="genre.php">Drama</a> | 
+													<a href="genre.php">Adventure</a> | 
+													<a href="genre.php">Family</a>								
 												</p>
 												<p class="fexi_header_para fexi_header_para1"><span>Star Rating<label>:</label></span>
 													<a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
@@ -945,12 +945,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 										    </div>
 										     <div class="col-md-7 wthree_agile-movies_list">
 														<div class="w3l-movie-gride-agile">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Swiss Army Man	</a></h6>						
+																		<h6><a href="single.php">Swiss Army Man	</a></h6>						
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -971,12 +971,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 														<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Me Before you</a></h6>							
+														<h6><a href="single.php">Me Before you</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -997,12 +997,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Deadpool</a></h6>							
+														<h6><a href="single.php">Deadpool</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1023,12 +1023,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Rogue One </a></h6>							
+														<h6><a href="single.php">Rogue One </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1049,12 +1049,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Storks	</a></h6>							
+														<h6><a href="single.php">Storks	</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1075,12 +1075,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Hopeless</a></h6>							
+														<h6><a href="single.php">Hopeless</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1101,12 +1101,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Mechanic</a></h6>							
+														<h6><a href="single.php">Mechanic</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1127,12 +1127,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Timeless</a></h6>							
+														<h6><a href="single.php">Timeless</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1157,12 +1157,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 											<div class="clearfix"> </div>
 											<div class="wthree_agile-requested-movies">
 										<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Swiss Army Man</a></h6>							
+																		<h6><a href="single.php">Swiss Army Man</a></h6>							
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -1183,12 +1183,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Me Before you</a></h6>							
+														<h6><a href="single.php">Me Before you</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1209,12 +1209,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Deadpool</a></h6>							
+														<h6><a href="single.php">Deadpool</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1235,12 +1235,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Rogue One </a></h6>							
+														<h6><a href="single.php">Rogue One </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1261,12 +1261,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Storks	</a></h6>							
+														<h6><a href="single.php">Storks	</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1307,9 +1307,9 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												<p class="fexi_header_para"><span>Release On<label>:</label></span>Jun 6, 2016 </p>
 												<p class="fexi_header_para">
 													<span>Genres<label>:</label> </span>
-													<a href="genre.html">Drama</a> | 
-													<a href="genre.html">Adventure</a> | 
-													<a href="genre.html">Family</a>								
+													<a href="genre.php">Drama</a> | 
+													<a href="genre.php">Adventure</a> | 
+													<a href="genre.php">Family</a>								
 												</p>
 												<p class="fexi_header_para fexi_header_para1"><span>Star Rating<label>:</label></span>
 													<a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
@@ -1323,12 +1323,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 										    </div>
 										     <div class="col-md-7 wthree_agile-movies_list">
 														<div class="w3l-movie-gride-agile">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Aarathu Sinam</a></h6>		
+																		<h6><a href="single.php">Aarathu Sinam</a></h6>		
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -1349,12 +1349,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 														<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html"></a>Nambiyaar</h6>							
+														<h6><a href="single.php"></a>Nambiyaar</h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1375,12 +1375,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Theri</a></h6>					
+														<h6><a href="single.php">Theri</a></h6>					
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1401,12 +1401,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Ko 2 </a></h6>							
+														<h6><a href="single.php">Ko 2 </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1427,12 +1427,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Pagiri</a></h6>						
+														<h6><a href="single.php">Pagiri</a></h6>						
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1453,12 +1453,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Miruthan</a></h6>							
+														<h6><a href="single.php">Miruthan</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1479,12 +1479,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Thodari</a></h6>							
+														<h6><a href="single.php">Thodari</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1505,12 +1505,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Rekka</a></h6>							
+														<h6><a href="single.php">Rekka</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1536,12 +1536,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 										  <div class="cleafix"></div>
 										  				<div class="wthree_agile-requested-movies">
 										<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Rekka</a></h6>							
+																		<h6><a href="single.php">Rekka</a></h6>							
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -1562,12 +1562,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Thodari</a></h6>							
+														<h6><a href="single.php">Thodari</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1588,12 +1588,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Pagiri</a></h6>							
+														<h6><a href="single.php">Pagiri</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1614,12 +1614,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Ko 2</a></h6>							
+														<h6><a href="single.php">Ko 2</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1640,12 +1640,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/t3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/t3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Theri</a></h6>							
+														<h6><a href="single.php">Theri</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1675,12 +1675,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 										
 										   <div class="col-md-7 wthree_agile-movies_list second-top">
 														<div class="w3l-movie-gride-agile">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Majnu</a></h6>						
+																		<h6><a href="single.php">Majnu</a></h6>						
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -1701,12 +1701,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 														<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Thikka</a></h6>							
+														<h6><a href="single.php">Thikka</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1727,12 +1727,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Premam</a></h6>							
+														<h6><a href="single.php">Premam</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1753,12 +1753,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Dhruva </a></h6>							
+														<h6><a href="single.php">Dhruva </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1779,12 +1779,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">A Aa</a></h6>							
+														<h6><a href="single.php">A Aa</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1805,12 +1805,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Ism</a></h6>							
+														<h6><a href="single.php">Ism</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1831,12 +1831,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Manamantha</a></h6>							
+														<h6><a href="single.php">Manamantha</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1857,12 +1857,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 												<div class="w3l-movie-gride-agile">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Pelli Choopulu</a></h6>							
+														<h6><a href="single.php">Pelli Choopulu</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1897,9 +1897,9 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												<p class="fexi_header_para"><span>Release On<label>:</label></span>  Sep 4, 2016 </p>
 												<p class="fexi_header_para">
 													<span>Genres<label>:</label> </span>
-													<a href="genre.html">Drama</a> | 
-													<a href="genre.html">Adventure</a> | 
-													<a href="genre.html">Family</a>								
+													<a href="genre.php">Drama</a> | 
+													<a href="genre.php">Adventure</a> | 
+													<a href="genre.php">Family</a>								
 												</p>
 												<p class="fexi_header_para fexi_header_para1"><span>Star Rating<label>:</label></span>
 													<a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
@@ -1913,12 +1913,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 											<div class="clearfix"> </div>
 											<div class="wthree_agile-requested-movies">
 										<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Thikka</a></h6>							
+																		<h6><a href="single.php">Thikka</a></h6>							
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -1939,12 +1939,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Majnu</a></h6>							
+														<h6><a href="single.php">Majnu</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1965,12 +1965,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Premam</a></h6>							
+														<h6><a href="single.php">Premam</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -1991,12 +1991,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Dhruva </a></h6>							
+														<h6><a href="single.php">Dhruva </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2017,12 +2017,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/g5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/g5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">A Aa</a></h6>							
+														<h6><a href="single.php">A Aa</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2063,12 +2063,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 				<!--/requested-movies-->
 				     <div class="wthree_agile-requested-movies">
 										<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-															<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+															<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m1.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 																<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 															</a>
 																<div class="mid-1 agileits_w3layouts_mid_1_home">
 																	<div class="w3l-movie-text">
-																		<h6><a href="single.html">Swiss Army Man</a></h6>							
+																		<h6><a href="single.php">Swiss Army Man</a></h6>							
 																	</div>
 																	<div class="mid-2 agile_mid_2_home">
 																		<p>2016</p>
@@ -2089,12 +2089,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 															</div>
 													</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m2.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Me Before you</a></h6>							
+														<h6><a href="single.php">Me Before you</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2115,12 +2115,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Deadpool</a></h6>							
+														<h6><a href="single.php">Deadpool</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2141,12 +2141,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m4.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Rogue One </a></h6>							
+														<h6><a href="single.php">Rogue One </a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2167,12 +2167,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Storks	</a></h6>							
+														<h6><a href="single.php">Storks	</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2193,12 +2193,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m6.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Hopeless</a></h6>							
+														<h6><a href="single.php">Hopeless</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2219,12 +2219,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m7.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Mechanic</a></h6>							
+														<h6><a href="single.php">Mechanic</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2245,12 +2245,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m8.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Timeless</a></h6>							
+														<h6><a href="single.php">Timeless</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2271,12 +2271,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m9.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m9.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Inferno</a></h6>							
+														<h6><a href="single.php">Inferno</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2297,12 +2297,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 												</div>
 											</div>
 											<div class="col-md-2 w3l-movie-gride-agile requested-movies">
-												<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m11.jpg" title="Movies Pro" class="img-responsive" alt=" ">
+												<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m11.jpg" title="Movies Pro" class="img-responsive" alt=" ">
 													<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 												</a>
 												<div class="mid-1 agileits_w3layouts_mid_1_home">
 													<div class="w3l-movie-text">
-														<h6><a href="single.html">Warcraft</a></h6>							
+														<h6><a href="single.php">Warcraft</a></h6>							
 													</div>
 													<div class="mid-2 agile_mid_2_home">
 														<p>2016</p>
@@ -2333,12 +2333,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 				<div id="owl-demo" class="owl-carousel owl-theme">
 					<div class="item">
 						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m5.jpg" title="Movies Pro" class="img-responsive" alt=" " />
 								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 							</a>
 							<div class="mid-1 agileits_w3layouts_mid_1_home">
 								<div class="w3l-movie-text">
-									<h6><a href="single.html">Storks	</a></h6>							
+									<h6><a href="single.php">Storks	</a></h6>							
 								</div>
 								<div class="mid-2 agile_mid_2_home">
 									<p>2016</p>
@@ -2361,12 +2361,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 					</div>
 					<div class="item">
 						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m6.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m6.jpg" title="Movies Pro" class="img-responsive" alt=" " />
 								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 							</a>
 							<div class="mid-1 agileits_w3layouts_mid_1_home">
 								<div class="w3l-movie-text">
-									<h6><a href="single.html">Hopeless</a></h6>							
+									<h6><a href="single.php">Hopeless</a></h6>							
 								</div>
 								<div class="mid-2 agile_mid_2_home">
 									<p>2016</p>
@@ -2389,12 +2389,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 					</div>
 					<div class="item">
 						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m7.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m7.jpg" title="Movies Pro" class="img-responsive" alt=" " />
 								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 							</a>
 							<div class="mid-1 agileits_w3layouts_mid_1_home">
 								<div class="w3l-movie-text">
-									<h6><a href="single.html">Mechanic</a></h6>							
+									<h6><a href="single.php">Mechanic</a></h6>							
 								</div>
 								<div class="mid-2 agile_mid_2_home">
 									<p>2016</p>
@@ -2417,12 +2417,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 					</div>
 					<div class="item">
 						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m8.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m8.jpg" title="Movies Pro" class="img-responsive" alt=" " />
 								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 							</a>
 							<div class="mid-1 agileits_w3layouts_mid_1_home">
 								<div class="w3l-movie-text">
-									<h6><a href="single.html">Timeless</a></h6>							
+									<h6><a href="single.php">Timeless</a></h6>							
 								</div>
 								<div class="mid-2 agile_mid_2_home">
 									<p>2016</p>
@@ -2445,96 +2445,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 					</div>
 					<div class="item">
 						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m3.jpg" title="Movies Pro" class="img-responsive" alt=" " />
 								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 							</a>
 							<div class="mid-1 agileits_w3layouts_mid_1_home">
 								<div class="w3l-movie-text">
-									<h6><a href="single.html">Deadpool</a></h6>							
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m11.jpg" title="Movies Pro" class="img-responsive" alt=" " />
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Warcraft</a></h6>							
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m14.jpg" title="Movies Pro" class="img-responsive" alt=" " />
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Rambo 4</a></h6>							
-								</div>
-								<div class="mid-2 agile_mid_2_home">
-									<p>2016</p>
-									<div class="block-stars">
-										<ul class="w3l-ratings">
-											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
-										</ul>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-							<div class="ribben one">
-								<p>NEW</p>
-							</div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m13.jpg" title="Movies Pro" class="img-responsive" alt=" " />
-								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
-							</a>
-							<div class="mid-1 agileits_w3layouts_mid_1_home">
-								<div class="w3l-movie-text">
-									<h6><a href="single.html">Ghostbuster</a></h6>							
+									<h6><a href="single.php">Deadpool</a></h6>							
 								</div>
 								<div class="mid-2 agile_mid_2_home">
 									<p>2016</p>
@@ -2557,12 +2473,96 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 					</div>
 					<div class="item">
 						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
-							<a href="single.html" class="hvr-sweep-to-bottom"><img src="images/m15.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m11.jpg" title="Movies Pro" class="img-responsive" alt=" " />
 								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
 							</a>
 							<div class="mid-1 agileits_w3layouts_mid_1_home">
 								<div class="w3l-movie-text">
-									<h6><a href="single.html">RoboCop</a></h6>							
+									<h6><a href="single.php">Warcraft</a></h6>							
+								</div>
+								<div class="mid-2 agile_mid_2_home">
+									<p>2016</p>
+									<div class="block-stars">
+										<ul class="w3l-ratings">
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a></li>
+										</ul>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+							<div class="ribben one">
+								<p>NEW</p>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m14.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
+							</a>
+							<div class="mid-1 agileits_w3layouts_mid_1_home">
+								<div class="w3l-movie-text">
+									<h6><a href="single.php">Rambo 4</a></h6>							
+								</div>
+								<div class="mid-2 agile_mid_2_home">
+									<p>2016</p>
+									<div class="block-stars">
+										<ul class="w3l-ratings">
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+										</ul>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+							<div class="ribben one">
+								<p>NEW</p>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m13.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
+							</a>
+							<div class="mid-1 agileits_w3layouts_mid_1_home">
+								<div class="w3l-movie-text">
+									<h6><a href="single.php">Ghostbuster</a></h6>							
+								</div>
+								<div class="mid-2 agile_mid_2_home">
+									<p>2016</p>
+									<div class="block-stars">
+										<ul class="w3l-ratings">
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a></li>
+										</ul>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+							<div class="ribben one">
+								<p>NEW</p>
+							</div>
+						</div>
+					</div>
+					<div class="item">
+						<div class="w3l-movie-gride-agile w3l-movie-gride-slider ">
+							<a href="single.php" class="hvr-sweep-to-bottom"><img src="images/m15.jpg" title="Movies Pro" class="img-responsive" alt=" " />
+								<div class="w3l-action-icon"><i class="fa fa-play-circle-o" aria-hidden="true"></i></div>
+							</a>
+							<div class="mid-1 agileits_w3layouts_mid_1_home">
+								<div class="w3l-movie-text">
+									<h6><a href="single.php">RoboCop</a></h6>							
 								</div>
 								<div class="mid-2 agile_mid_2_home">
 									<p>2016</p>
@@ -2619,12 +2619,12 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 						<h4>Movies</h4>
 							<ul>
 								
-								<li><a href="genre.html">ADVENTURE</a></li>
-								<li><a href="comedy.html">COMEDY</a></li>
-								<li><a href="series.html">FANTASY</a></li>
-								<li><a href="series.html">ACTION  </a></li>
-								<li><a href="genre.html">MOVIES  </a></li>
-								<li><a href="horror.html">HORROR  </a></li>
+								<li><a href="genre.php">ADVENTURE</a></li>
+								<li><a href="comedy.php">COMEDY</a></li>
+								<li><a href="series.php">FANTASY</a></li>
+								<li><a href="series.php">ACTION  </a></li>
+								<li><a href="genre.php">MOVIES  </a></li>
+								<li><a href="horror.php">HORROR  </a></li>
 								
 							</ul>
 						</div>
@@ -2633,21 +2633,21 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 							<div class="col-md-2 footer-grid">
 								<h4>Review Movies</h4>
 									<ul class="w3-tag2">
-									<li><a href="comedy.html">Comedy</a></li>
-									<li><a href="horror.html">Horror</a></li>
-									<li><a href="series.html">Historical</a></li>
-									<li><a href="series.html">Romantic</a></li>
-									<li><a href="series.html">Love</a></li>
-									<li><a href="genre.html">Action</a></li>
-									<li><a href="single.html">Reviews</a></li>
-									<li><a href="comedy.html">Comedy</a></li>
-									<li><a href="horror.html">Horror</a></li>
-									<li><a href="series.html">Historical</a></li>
-									<li><a href="series.html">Romantic</a></li>
-									<li><a href="genre.html">Love</a></li>
-									<li><a href="comedy.html">Comedy</a></li>
-									<li><a href="horror.html">Horror</a></li>
-									<li><a href="genre.html">Historical</a></li>
+									<li><a href="comedy.php">Comedy</a></li>
+									<li><a href="horror.php">Horror</a></li>
+									<li><a href="series.php">Historical</a></li>
+									<li><a href="series.php">Romantic</a></li>
+									<li><a href="series.php">Love</a></li>
+									<li><a href="genre.php">Action</a></li>
+									<li><a href="single.php">Reviews</a></li>
+									<li><a href="comedy.php">Comedy</a></li>
+									<li><a href="horror.php">Horror</a></li>
+									<li><a href="series.php">Historical</a></li>
+									<li><a href="series.php">Romantic</a></li>
+									<li><a href="genre.php">Love</a></li>
+									<li><a href="comedy.php">Comedy</a></li>
+									<li><a href="horror.php">Horror</a></li>
+									<li><a href="genre.php">Historical</a></li>
 									
 								</ul>
 
@@ -2657,20 +2657,20 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 						<h4>Latest Movies</h4>
 							<div class="footer-grid1">
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/1.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/1.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">eveniet ut molesti</a>
+									<a href="single.php">eveniet ut molesti</a>
 									
 								</div>
 								<div class="clearfix"> </div>
 							</div>
 							<div class="footer-grid1">
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">earum rerum tenet</a>
+									<a href="single.php">earum rerum tenet</a>
 									
 								</div>
 								<div class="clearfix"> </div>
@@ -2678,20 +2678,20 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 							<div class="footer-grid1">
 							
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/4.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/4.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">eveniet ut molesti</a>
+									<a href="single.php">eveniet ut molesti</a>
 									
 								</div>
 								<div class="clearfix"> </div>
 							</div>
 							<div class="footer-grid1">
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/3.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/3.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">earum rerum tenet</a>
+									<a href="single.php">earum rerum tenet</a>
 									
 								</div>
 								<div class="clearfix"> </div>
@@ -2700,33 +2700,33 @@ A film by Abhinay Deo, Produced by Vipul Amrutlal Shah, JA entertainment Pvt. Lt
 
 						</div>
 						<div class="col-md-2 footer-grid">
-						   <h4 class="b-log"><a href="index.html"><span>M</span>ovies <span>P</span>ro</a></h4>
+						   <h4 class="b-log"><a href="index.php"><span>M</span>ovies <span>P</span>ro</a></h4>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m1.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m1.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m2.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m2.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-								<a href="single.html"><img src="images/m3.jpg" alt=" " class="img-responsive"></a>
+								<a href="single.php"><img src="images/m3.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m4.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m4.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-								<a href="single.html"><img src="images/m5.jpg" alt=" " class="img-responsive"></a>
+								<a href="single.php"><img src="images/m5.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m6.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m6.jpg" alt=" " class="img-responsive"></a>
 							</div>
 								
 							<div class="clearfix"> </div>
 						</div>
 						<div class="clearfix"> </div>
 						<ul class="bottom-links-agile">
-								<li><a href="icons.html" title="Font Icons">Icons</a></li> 
-								<li><a href="short-codes.html" title="Short Codes">Short Codes</a></li> 
-								<li><a href="contact.html" title="contact">Contact</a></li> 
+								<li><a href="icons.php" title="Font Icons">Icons</a></li> 
+								<li><a href="short-codes.php" title="Short Codes">Short Codes</a></li> 
+								<li><a href="contact.php" title="contact">Contact</a></li> 
 								
 							</ul>
 					</div>

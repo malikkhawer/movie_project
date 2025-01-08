@@ -220,7 +220,7 @@ RIGHT SIDEBAR TOGGLE SECTION
 
 <!--/main-header-->
   <!--/banner-section-->
-	<div id="demo-1" data-zs-src='["images/2.jpg", "images/1.jpg", "images/3.jpg","images/4.jpg"]' data-zs-overlay="dots">
+	<div id="demo-1" data-zs-src='["../adminpanel/uploads/b2.webp.webp", "../adminpanel/uploads/l4.webp.webp", "../adminpanel/uploads/b3.jpg.jpg","../adminpanel/uploads/c9.png"]' data-zs-overlay="dots">
 		<div class="demo-inner-content">
 		<!--/header-w3l-->
 			   <div class="header-w3-agileits" id="home">
@@ -233,49 +233,49 @@ RIGHT SIDEBAR TOGGLE SECTION
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<h1><a  href="index.html"><span>M</span>ovies <span>S</span>ystem</a></h1>
+						<h1><a  href="index.php"><span>M</span>ovies <span>S</span>ystem</a></h1>
 					</div>
 					<!-- navbar-header -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html">Home</a></li>
+							<li class="active"><a href="index.php">Home</a></li>
 							
-							<li><a href="series.html">tv - series</a></li>
-							<li><a href="news.html">news</a></li>
+							<li><a href="alltheater.php">Theater</a></li>
+							<li><a href="booking.php">booking</a></li>
 							<!-- <li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Country <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">Asia</a></li>
-												<li><a href="genre.html">France</a></li>
-												<li><a href="genre.html">Taiwan</a></li>
-												<li><a href="genre.html">United States</a></li>
+												<li><a href="genre.php">Asia</a></li>
+												<li><a href="genre.php">France</a></li>
+												<li><a href="genre.php">Taiwan</a></li>
+												<li><a href="genre.php">United States</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">China</a></li>
-												<li><a href="genre.html">HongCong</a></li>
-												<li><a href="genre.html">Japan</a></li>
-												<li><a href="genre.html">Thailand</a></li>
+												<li><a href="genre.php">China</a></li>
+												<li><a href="genre.php">HongCong</a></li>
+												<li><a href="genre.php">Japan</a></li>
+												<li><a href="genre.php">Thailand</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">Euro</a></li>
-												<li><a href="genre.html">India</a></li>
-												<li><a href="genre.html">Korea</a></li>
-												<li><a href="genre.html">United Kingdom</a></li>
+												<li><a href="genre.php">Euro</a></li>
+												<li><a href="genre.php">India</a></li>
+												<li><a href="genre.php">Korea</a></li>
+												<li><a href="genre.php">United Kingdom</a></li>
 											</ul>
 										</div>
 										<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li> -->
-							<li><a href="list.html">A - z list</a></li>
-							<!-- <li><a href="contact.html">Contact</a></li> -->
+							<li ><a href="login.php">Login</a></li>
+							<li><a href="register.php">sign up</a></li>
 						</ul>
 
 					</div>

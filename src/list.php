@@ -283,87 +283,87 @@ RIGHT SIDEBAR TOGGLE SECTION
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<h1><a  href="index.html"><span>M</span>ovies <span>P</span>ro</a></h1>
+						<h1><a  href="index.php"><span>M</span>ovies <span>P</span>ro</a></h1>
 					</div>
 					<!-- navbar-header -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li class="dropdown active">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Genre <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="genre.html">Action</a></li>
-											<li><a href="genre.html">Biography</a></li>
-											<li><a href="genre.html">Crime</a></li>
-											<li><a href="genre.html">Family</a></li>
-											<li><a href="horror.html">Horror</a></li>
-											<li><a href="genre.html">Romance</a></li>
-											<li><a href="genre.html">Sports</a></li>
-											<li><a href="genre.html">War</a></li>
+											<li><a href="genre.php">Action</a></li>
+											<li><a href="genre.php">Biography</a></li>
+											<li><a href="genre.php">Crime</a></li>
+											<li><a href="genre.php">Family</a></li>
+											<li><a href="horror.php">Horror</a></li>
+											<li><a href="genre.php">Romance</a></li>
+											<li><a href="genre.php">Sports</a></li>
+											<li><a href="genre.php">War</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="genre.html">Adventure</a></li>
-											<li><a href="comedy.html">Comedy</a></li>
-											<li><a href="genre.html">Documentary</a></li>
-											<li><a href="genre.html">Fantasy</a></li>
-											<li><a href="genre.html">Thriller</a></li>
+											<li><a href="genre.php">Adventure</a></li>
+											<li><a href="comedy.php">Comedy</a></li>
+											<li><a href="genre.php">Documentary</a></li>
+											<li><a href="genre.php">Fantasy</a></li>
+											<li><a href="genre.php">Thriller</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="genre.html">Animation</a></li>
-											<li><a href="genre.html">Costume</a></li>
-											<li><a href="genre.html">Drama</a></li>
-											<li><a href="genre.html">History</a></li>
-											<li><a href="genre.html">Musical</a></li>
-											<li><a href="genre.html">Psychological</a></li>
+											<li><a href="genre.php">Animation</a></li>
+											<li><a href="genre.php">Costume</a></li>
+											<li><a href="genre.php">Drama</a></li>
+											<li><a href="genre.php">History</a></li>
+											<li><a href="genre.php">Musical</a></li>
+											<li><a href="genre.php">Psychological</a></li>
 										</ul>
 									</div>
 									<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li>
-							<li><a href="series.html">tv - series</a></li>
-							<li><a href="news.html">news</a></li>
+							<li><a href="series.php">tv - series</a></li>
+							<li><a href="news.php">news</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Country <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">Asia</a></li>
-												<li><a href="genre.html">France</a></li>
-												<li><a href="genre.html">Taiwan</a></li>
-												<li><a href="genre.html">United States</a></li>
+												<li><a href="genre.php">Asia</a></li>
+												<li><a href="genre.php">France</a></li>
+												<li><a href="genre.php">Taiwan</a></li>
+												<li><a href="genre.php">United States</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">China</a></li>
-												<li><a href="genre.html">HongCong</a></li>
-												<li><a href="genre.html">Japan</a></li>
-												<li><a href="genre.html">Thailand</a></li>
+												<li><a href="genre.php">China</a></li>
+												<li><a href="genre.php">HongCong</a></li>
+												<li><a href="genre.php">Japan</a></li>
+												<li><a href="genre.php">Thailand</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="genre.html">Euro</a></li>
-												<li><a href="genre.html">India</a></li>
-												<li><a href="genre.html">Korea</a></li>
-												<li><a href="genre.html">United Kingdom</a></li>
+												<li><a href="genre.php">Euro</a></li>
+												<li><a href="genre.php">India</a></li>
+												<li><a href="genre.php">Korea</a></li>
+												<li><a href="genre.php">United Kingdom</a></li>
 											</ul>
 										</div>
 										<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li>
-								<li><a href="list.html">A - z list</a></li>
-							    <li><a href="contact.html">Contact</a></li>
+								<li><a href="list.php">A - z list</a></li>
+							    <li><a href="contact.php">Contact</a></li>
 						</ul>
 
 					</div>
@@ -510,7 +510,7 @@ RIGHT SIDEBAR TOGGLE SECTION
 	<div class="w3_breadcrumb">
 	<div class="breadcrumb-inner">	
 			<ul>
-				<li><a href="index.html">Home</a><i>//</i></li>
+				<li><a href="index.php">Home</a><i>//</i></li>
 				<li>List</li>
 			</ul>
 		</div>
@@ -577,227 +577,227 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html"> Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php"> Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="horror.html">Horror</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="horror.php">Horror</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>18</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>19</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>20</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>21</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>22</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>23</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>24</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>25</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="comedy.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="comedy.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										</tbody>
@@ -824,155 +824,155 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -999,110 +999,110 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -1129,137 +1129,137 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										</tbody>
@@ -1286,146 +1286,146 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										</tbody>
@@ -1452,83 +1452,83 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 									</table>
@@ -1554,128 +1554,128 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 									</table>
@@ -1701,227 +1701,227 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>18</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>19</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>20</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>21</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>22</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>23</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>24</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>25</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										</tbody>
@@ -1948,155 +1948,155 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -2123,110 +2123,110 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.htmlgenre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.phpgenre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -2253,137 +2253,137 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										</tbody>
@@ -2410,146 +2410,146 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										</tbody>
@@ -2576,128 +2576,128 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 									</table>
@@ -2723,227 +2723,227 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>18</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>19</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>20</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>21</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>22</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>23</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>24</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>25</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										</tbody>
@@ -2970,155 +2970,155 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -3145,110 +3145,110 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -3275,146 +3275,146 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										</tbody>
@@ -3441,83 +3441,83 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 									</table>
@@ -3543,128 +3543,128 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 									</table>
@@ -3690,155 +3690,155 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -3865,155 +3865,155 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -4040,110 +4040,110 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -4170,146 +4170,146 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										</tbody>
@@ -4336,83 +4336,83 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 									</table>
@@ -4438,128 +4438,128 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 									</table>
@@ -4585,155 +4585,155 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>13</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>14</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>15</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>16</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>17</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -4760,110 +4760,110 @@ RIGHT SIDEBAR TOGGLE SECTION
 										<tbody>
 										  <tr>
 											<td>1</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>2</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m2.jpg" alt="" /> <span>Me Before you</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Korea</a></td>
-											<td class="w3-list-info"><a href="genre.html">Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Korea</a></td>
+											<td class="w3-list-info"><a href="genre.php">Drama</a></td>
 											<td>7.5</td>
 										  </tr>
 										  <tr>
 											<td>3</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m11.jpg" alt="" /> <span>Warcraft</span></a></td>
 											<td>2016</td>
 											<td>SD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>6.5</td>
 										  </tr>
 										  <tr>
 											<td>4</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m3.jpg" alt="" /> <span>Deadpool</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>5</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m4.jpg" alt="" /> <span>Rogue One</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United States</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">United States</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>6</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m5.jpg" alt="" /> <span>Storks</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">India</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">India</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Drama</a></td>
 											<td>9.0</td>
 										  </tr>
 										  <tr>
 											<td>7</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m6.jpg" alt="" /> <span>Hopeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Euro, France</a></td>
-											<td class="w3-list-info"><a href="genre.html">Thriller, Crime, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">Euro, France</a></td>
+											<td class="w3-list-info"><a href="genre.php">Thriller, Crime, Drama</a></td>
 											<td>8.2</td>
 										  </tr>
 										  <tr>
 											<td>8</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m7.jpg" alt="" /> <span>Mechanic</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">China</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy</a></td>
+											<td class="w3-list-info"><a href="genre.php">China</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy</a></td>
 											<td>8.9</td>
 										  </tr>
 										  <tr>
 											<td>9</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m8.jpg" alt="" /> <span>Timeless</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>10</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m9.jpg" alt="" /> <span>Inferno</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">Japan</a></td>
-											<td class="w3-list-info"><a href="genre.html">Action</a></td>
+											<td class="w3-list-info"><a href="genre.php">Japan</a></td>
+											<td class="w3-list-info"><a href="genre.php">Action</a></td>
 											<td>7.1</td>
 										  </tr>
 										  <tr>
 											<td>11</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m10.jpg" alt="" /> <span>Now You See Me 2</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										  <tr>
 											<td>12</td>
-											<td class="w3-list-img"><a href="single.html"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
+											<td class="w3-list-img"><a href="single.php"><img src="images/m1.jpg" alt="" /> <span>Swiss Army Man</span></a></td>
 											<td>2016</td>
 											<td>HD</td>
-											<td class="w3-list-info"><a href="genre.html">United Kingdom</a></td>
-											<td class="w3-list-info"><a href="genre.html">Comedy, Drama</a></td>
+											<td class="w3-list-info"><a href="genre.php">United Kingdom</a></td>
+											<td class="w3-list-info"><a href="genre.php">Comedy, Drama</a></td>
 											<td>7.0</td>
 										  </tr>
 										</tbody>
@@ -4906,12 +4906,12 @@ RIGHT SIDEBAR TOGGLE SECTION
 						<h4>Movies</h4>
 							<ul>
 								
-								<li><a href="genre.html">ADVENTURE</a></li>
-								<li><a href="comedy.html">COMEDY</a></li>
-								<li><a href="series.html">FANTASY</a></li>
-								<li><a href="series.html">ACTION  </a></li>
-								<li><a href="genre.html">MOVIES  </a></li>
-								<li><a href="horror.html">HORROR  </a></li>
+								<li><a href="genre.php">ADVENTURE</a></li>
+								<li><a href="comedy.php">COMEDY</a></li>
+								<li><a href="series.php">FANTASY</a></li>
+								<li><a href="series.php">ACTION  </a></li>
+								<li><a href="genre.php">MOVIES  </a></li>
+								<li><a href="horror.php">HORROR  </a></li>
 								
 							</ul>
 						</div>
@@ -4920,21 +4920,21 @@ RIGHT SIDEBAR TOGGLE SECTION
 							<div class="col-md-2 footer-grid">
 								<h4>Review Movies</h4>
 									<ul class="w3-tag2">
-									<li><a href="comedy.html">Comedy</a></li>
-									<li><a href="horror.html">Horror</a></li>
-									<li><a href="series.html">Historical</a></li>
-									<li><a href="series.html">Romantic</a></li>
-									<li><a href="series.html">Love</a></li>
-									<li><a href="genre.html">Action</a></li>
-									<li><a href="single.html">Reviews</a></li>
-									<li><a href="comedy.html">Comedy</a></li>
-									<li><a href="horror.html">Horror</a></li>
-									<li><a href="series.html">Historical</a></li>
-									<li><a href="series.html">Romantic</a></li>
-									<li><a href="genre.html">Love</a></li>
-									<li><a href="comedy.html">Comedy</a></li>
-									<li><a href="horror.html">Horror</a></li>
-									<li><a href="genre.html">Historical</a></li>
+									<li><a href="comedy.php">Comedy</a></li>
+									<li><a href="horror.php">Horror</a></li>
+									<li><a href="series.php">Historical</a></li>
+									<li><a href="series.php">Romantic</a></li>
+									<li><a href="series.php">Love</a></li>
+									<li><a href="genre.php">Action</a></li>
+									<li><a href="single.php">Reviews</a></li>
+									<li><a href="comedy.php">Comedy</a></li>
+									<li><a href="horror.php">Horror</a></li>
+									<li><a href="series.php">Historical</a></li>
+									<li><a href="series.php">Romantic</a></li>
+									<li><a href="genre.php">Love</a></li>
+									<li><a href="comedy.php">Comedy</a></li>
+									<li><a href="horror.php">Horror</a></li>
+									<li><a href="genre.php">Historical</a></li>
 									
 								</ul>
 
@@ -4944,20 +4944,20 @@ RIGHT SIDEBAR TOGGLE SECTION
 						<h4>Latest Movies</h4>
 							<div class="footer-grid1">
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/1.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/1.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">eveniet ut molesti</a>
+									<a href="single.php">eveniet ut molesti</a>
 									
 								</div>
 								<div class="clearfix"> </div>
 							</div>
 							<div class="footer-grid1">
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/2.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">earum rerum tenet</a>
+									<a href="single.php">earum rerum tenet</a>
 									
 								</div>
 								<div class="clearfix"> </div>
@@ -4965,20 +4965,20 @@ RIGHT SIDEBAR TOGGLE SECTION
 							<div class="footer-grid1">
 							
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/4.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/4.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">eveniet ut molesti</a>
+									<a href="single.php">eveniet ut molesti</a>
 									
 								</div>
 								<div class="clearfix"> </div>
 							</div>
 							<div class="footer-grid1">
 								<div class="footer-grid1-left">
-									<a href="single.html"><img src="images/3.jpg" alt=" " class="img-responsive"></a>
+									<a href="single.php"><img src="images/3.jpg" alt=" " class="img-responsive"></a>
 								</div>
 								<div class="footer-grid1-right">
-									<a href="single.html">earum rerum tenet</a>
+									<a href="single.php">earum rerum tenet</a>
 									
 								</div>
 								<div class="clearfix"> </div>
@@ -4987,33 +4987,33 @@ RIGHT SIDEBAR TOGGLE SECTION
 
 						</div>
 						<div class="col-md-2 footer-grid">
-						   <h4 class="b-log"><a href="index.html"><span>M</span>ovies <span>P</span>ro</a></h4>
+						   <h4 class="b-log"><a href="index.php"><span>M</span>ovies <span>P</span>ro</a></h4>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m1.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m1.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m2.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m2.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-								<a href="single.html"><img src="images/m3.jpg" alt=" " class="img-responsive"></a>
+								<a href="single.php"><img src="images/m3.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m4.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m4.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-								<a href="single.html"><img src="images/m5.jpg" alt=" " class="img-responsive"></a>
+								<a href="single.php"><img src="images/m5.jpg" alt=" " class="img-responsive"></a>
 							</div>
 							<div class="footer-grid-instagram">
-							<a href="single.html"><img src="images/m6.jpg" alt=" " class="img-responsive"></a>
+							<a href="single.php"><img src="images/m6.jpg" alt=" " class="img-responsive"></a>
 							</div>
 								
 							<div class="clearfix"> </div>
 						</div>
 						<div class="clearfix"> </div>
 						<ul class="bottom-links-agile">
-								<li><a href="icons.html" title="Font Icons">Icons</a></li> 
-								<li><a href="short-codes.html" title="Short Codes">Short Codes</a></li> 
-								<li><a href="contact.html" title="contact">Contact</a></li> 
+								<li><a href="icons.php" title="Font Icons">Icons</a></li> 
+								<li><a href="short-codes.php" title="Short Codes">Short Codes</a></li> 
+								<li><a href="contact.php" title="contact">Contact</a></li> 
 								
 							</ul>
 					</div>

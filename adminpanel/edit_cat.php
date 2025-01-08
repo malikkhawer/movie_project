@@ -1,7 +1,7 @@
 <?php include('includes/header.php')?>
 <?php include('includes/sidebar.php')?>
 <?php include('includes/navbar.php')?>
-<?php include('connect.php')?>
+<?php include('includes/connect.php')?>
 
 <?php
     if(isset($_GET['user_id'])){
